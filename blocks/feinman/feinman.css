@@ -1,0 +1,20 @@
+@import url(./__link/feinman__link.css);
+@import url(./__subtitle/feinman__subtitle.css);
+@import url(./__title/feinman__title.css);
+
+/*секция Метод Фейнмана*/
+.feinman {
+  background-color: #f2f2f2;
+  min-height: 790px;
+  position: relative;
+  margin: 0;
+  padding-top: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(../../images/feynman.png);
+  background-size: 867px 637px;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  background-color: #f2f2f2;
+}

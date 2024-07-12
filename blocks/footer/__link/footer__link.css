@@ -1,0 +1,10 @@
+/*Ссылка в списке*/
+.footer__link {
+  text-decoration: none;
+  color: #f2f2f2;
+}
+
+.footer__link:hover {
+  opacity: 0.5;
+  transition: opacity 0.3s ease;
+}
